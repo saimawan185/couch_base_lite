@@ -1,4 +1,4 @@
-# couch_db_lite
+# Couchbase Lite
 
 CRUD Operations of Couchbase Lite Database.
 
