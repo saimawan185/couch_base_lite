@@ -15,6 +15,6 @@ Welcome to the Flutter Couchbase Lite CRUD App! This project demonstrates how to
 ## Contact Information
 For any inquiries, feedback, or collaboration opportunities, please reach out:
 
-Email: awanmsaim182@gmail.com
-Phone: +923164168178
+Email: awanmsaim182@gmail.com \n
+Phone: +923164168178 \n
 LinkedIn: https://www.linkedin.com/in/muhammad-saim-5bab731bb/
