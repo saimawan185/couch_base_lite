@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-
 import 'controller/couch_db.dart';
 import 'screens/contacts_screen.dart';
 
@@ -15,9 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MultiProvider(
       providers: [
-        ChangeNotifierProvider(
-          create: (context) => CouchDbController(),
-        )
+        ChangeNotifierProvider(create: (context) => CouchDbController()),
       ],
       child: MaterialApp(
         title: 'Contacts App',

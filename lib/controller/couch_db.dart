@@ -39,7 +39,6 @@ class CouchDbController extends ChangeNotifier {
   getContactsList() {
     allContactsStream().listen((results) {
       contactsList = results;
-      log("Contacts: $results");
       notifyListeners();
     });
   }

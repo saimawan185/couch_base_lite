@@ -1,7 +1,5 @@
-
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-
 import '../controller/couch_db.dart';
 import '../model/contact_model.dart';
 
@@ -27,7 +25,7 @@ class _ContactsScreenState extends State<ContactsScreen> {
         },
         icon: const Icon(
           Icons.add_circle_rounded,
-          size: 50,
+          size: 60,
           color: Colors.blueAccent,
         ),
       ),
